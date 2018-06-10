@@ -2,6 +2,8 @@
 #ifndef __RAPICORN_AIDA_SIGNAL_HH__
 #define __RAPICORN_AIDA_SIGNAL_HH__
 
+#include <functional>
+
 namespace Rapicorn { namespace Aida {
 
 namespace Lib {
